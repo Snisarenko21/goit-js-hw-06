@@ -1,3 +1,6 @@
-function getRandomHexColor() {
-  return `#${Math.floor(Math.random() * 16777215).toString(16)}`;
-}
+
+
+// btn[0].addEventListener("click", () => {
+//   createBoxes(inputEl.value);
+
+// createBtn.addEventListener("click", () => createBoxes(input.value)); 
